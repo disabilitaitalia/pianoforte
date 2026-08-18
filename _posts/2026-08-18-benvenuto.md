@@ -4,7 +4,7 @@ title: "Benvenuto nel mio blog"
 date: 2026-08-18
 ---
 
-Questo è il tuo primo post! Scrivi qui in **Markdown**.
+Questo è il mio secondo  post! Scrivi qui in **Markdowaaaaaaaaan**.
 
 Per aggiungere un nuovo post:
 
