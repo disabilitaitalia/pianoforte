@@ -1,0 +1,18 @@
+title: Il Mio Blog Painoforte
+description: Pensieri, note e progetti personali
+author: Il tuo nome
+baseurl: ""
+url: "https://disabilitaitalia.github.io"
+
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+# Costruisce automaticamente l'elenco dei post
+plugins:
+  - jekyll-feed
+
+# Escludi dalla pubblicazione file non necessari
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
